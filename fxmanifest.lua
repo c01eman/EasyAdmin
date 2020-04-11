@@ -1,4 +1,10 @@
-resource_manifest_version "44febabe-d386-4d18-afbe-5e627f4af937"
+fx_version 'adamant'
+
+game 'gta5'
+
+author 'Bluethefurry'
+description 'EasyAdmin'
+version 'Release 5.2'
 
 server_scripts {
 	"util_shared.lua",
